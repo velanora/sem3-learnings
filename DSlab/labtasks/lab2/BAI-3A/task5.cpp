@@ -36,9 +36,7 @@ int conversion(char *r, int size)
     }
     return ans;
 }
-
-int main()
-{
+int main(){
     string roman_temp;
     cout << "Enter a roman number : ";
     cin>>roman_temp;
