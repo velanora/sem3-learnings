@@ -116,7 +116,6 @@ class arraylist{
         while((pos = find(val)) != 0){
             remove(pos);
         }
-
     }
 };
 int main(){
